@@ -1,3 +1,3 @@
-def current_age_for_birth_year(year)
-  19
+def current_age_for_birth_year(birth_year)
+  puts current
 end
